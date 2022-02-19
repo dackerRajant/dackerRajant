@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dackerRajant
 - 👀 I’m interested in networking, routing, I/O, wireless, kernel development, device drivers
-- 🌱 I’m currently interested in rust
+- 🌱 I’m currently interested in learning rust
 - 📫 How to reach me: rajant.com
 
 <!---
